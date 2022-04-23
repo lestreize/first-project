@@ -9,6 +9,21 @@ div{
 
 	/* Menu */
 
+.nav1{
+	font-family: 'Quicksand', sans-serif;
+	
+}
+.nav2{
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+.menulogo {
+	height: 40px;
+}
+
+	/* Menu 
+
 #nav {
     position: fixed;
     text-align: center;
@@ -33,11 +48,8 @@ div{
 #nav a:hover {
     background-color: black;
     color: grey;
-}
+} */
 
-.menulogo {
-	height: 40px;
-}
 
 	/* Liens non-soulignés */
 
