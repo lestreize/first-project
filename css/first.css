@@ -7,39 +7,46 @@ div{
   justify-content:center;
 }
 
+h2 {
+	text-align: center;
+	color: white;
+	font-family: arial;
+	padding-top: 100px;
+
+}
+
+	/* Liens */
+
+a {
+	color: white;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a[href^="mailto:"] {
+  font-size: 15px;
+  color:white;
+}
+
+a:hover {
+	color: darkgrey;
+}
+
 	/* Menu */
 
 .nav1 {
-	font-family: 'Quicksand', sans-serif;
-	
+	font-family: 'Quicksand', sans-serif;	
 }
 
-.nav2{
+.nav2 {
 	font-family: 'Quicksand', sans-serif;
-
 }
 
 .menulogo {
 	height: 40px;
 	padding-left: 25px;
-
-}
-
-
-	/* Liens non-soulignés */
-
-
-a:link {
-	text-decoration: none;
-}
-a:visited {
-	text-decoration: none;
-}
-a:hover {
-	text-decoration: none;
-}
-a:active {
-	text-decoration: none;
 }
 
 	/* Responsive moon */
@@ -67,21 +74,6 @@ a:active {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 18px;
 	text-align: center;
-}
-
-
-h2 {
-	text-align: center;
-	color: white;
-	font-family: arial;
-	padding-top: 100px;
-
-}
-
-a[href^="mailto:"]
-{ 
-  color: red;
-  font-size: 15px;
 }
 
 
