@@ -8,7 +8,7 @@ div{
 }
 
 	/* Menu */
-	
+
 #nav {
     position: fixed;
     text-align: center;
@@ -33,6 +33,10 @@ div{
 #nav a:hover {
     background-color: black;
     color: grey;
+}
+
+.menulogo {
+	height: 40px;	
 }
 
 	/* Liens non-soulignés */
