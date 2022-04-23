@@ -22,34 +22,6 @@ div{
 	height: 40px;
 }
 
-	/* Menu 
-
-#nav {
-    position: fixed;
-    text-align: center;
-    padding: 35px;
-    margin: 0;
-    width: 1050px;
-    background-color: black;
-    font-family: 'Quicksand', sans-serif;
-    }
- 
-#nav li {
-    display: inline;
-    list-style: none;
-}
- 
-#nav a {
-    display: inline-block;
-    margin: 0 10px;
-    color: white;
-}
- 
-#nav a:hover {
-    background-color: black;
-    color: grey;
-} */
-
 
 	/* Liens non-soulignés */
 
@@ -83,5 +55,5 @@ a:active {
   position: relative;
   overflow: hidden;
   width: 100%;
-  margin-top: 150px;
+  margin-top: 100px;
 }
